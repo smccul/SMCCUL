@@ -1,0 +1,6 @@
+{
+  "name": "Cooperative Manager (সমিতি ম্যানেজার)",
+  "description": "একটি আধুনিক সমিতি ব্যবস্থাপনা এ্যাপ যা সদস্য ভর্তি, শেয়ার, সঞ্চয়, ডিপিএস, মেয়াদী আমানত এবং ঋণ হিসাব ব্যবস্থাপনা সহজ করে।",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
